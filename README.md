@@ -1,0 +1,4 @@
+mygitrepos
+==========
+
+git repository
